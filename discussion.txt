@@ -1,0 +1,6 @@
+Sean, Kyle, Tristan 
+Prof. Fitzsimmons 
+Artificial Intelligence
+Project 1 discussion.txt
+
+9/23 Talked with Tom and Jack's group about heurisitic ideas and some python bugs
